@@ -3,7 +3,7 @@
 ## Installation
 ```bash
 # Clone this repository
-git clone https://github.com/sairajsawant/comment-system.git
+git clone https://github.com/AnuMeadow/Comment-System.git
 
 # Fire up MongoDB container
 docker run -d -p 27017:27017 --restart unless-stopped --name commentsmongo mongo
